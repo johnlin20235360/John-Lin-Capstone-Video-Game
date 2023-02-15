@@ -1,2 +1,4 @@
 # John-Lin-Capstone-Video-Game
-Hi
+## About
+3D Singleplayer game that combines different movement mechanics with weapons that grant special abilities.
+
